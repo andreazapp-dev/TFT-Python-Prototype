@@ -74,7 +74,8 @@ The goal is to study and recreate the core gameplay loops of a complex strategy 
    git clone https://github.com/andreazapp-dev/TFT-Python-Prototype.git
    cd TFT-Python-Prototype
    pip install pygame
-   python game.py ```
+   python game.py 
+   ```
 
 ---
 
